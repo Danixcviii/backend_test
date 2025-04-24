@@ -4,7 +4,7 @@ the products offered by a vending machine (type of product 'I guess', available 
 using a user_id and a device_id.
 
 I didn't have the opportunity to test the code,
-so I might have some syntax erros or even worst errors along the way, I tried my best, sorry. 
+so I might have some syntax erros or even worst errors along the way, I have tried my best, sorry. 
 """
 
 import json
