@@ -6,6 +6,6 @@ Backend test with python
 the products offered by a vending machine (type of product 'I guess', available amound, width, etc.. (I guess again)),
 using a user_id and a device_id.
 * Which segments would you change, why?
-    - If I had to just change a section of it ot improve performance but readability, I would change the section between line 122 to 142, it could be done on a single for loop.
+    - If I had to just change a section of it to improve performance but readability, I would change the section between line 122 to 142, it could be done on a single for loop.
 * Could you make a better version?
 * Now do it and enjoy it
